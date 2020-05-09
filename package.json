@@ -2,7 +2,7 @@
   "name": "algopedia",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://ankit1ab1.github.io/Algopedia/",
+  "homepage": "https://github.com/Ankit1ab1/Algopedia",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
